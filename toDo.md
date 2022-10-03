@@ -10,3 +10,5 @@
 
 ## Fix
 - Separate logic from interface
+- Button text alignment 
+- checking for decimal or NaN(add poperty keeping track of current number)
